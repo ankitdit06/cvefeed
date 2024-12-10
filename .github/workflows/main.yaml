@@ -1,0 +1,23 @@
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: SecuReg-Update
+      run: |
+        curl -X POST http://217.160.221.142:9090/Component/Create \
+          -H "Content-Type: application/json" \
+          -d '{"name":"XYZ3","version":"1.0","url":"ex.com","platform":"java","document_ref":"sdsdsdsd","api_ref":"ahjdshjdhjsd","team_id":"d3743afd-9671-4712-8838-8fdd09fe00e6","service_id":"f1e9a4e7-deb1-42ee-b10c-9bbcedb76297"}'
