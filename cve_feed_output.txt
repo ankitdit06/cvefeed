@@ -1,0 +1,100 @@
+Title: CVE-2024-52765 - H3C GR-1800AX ASPForm Remote Code Execution Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52765
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-52702 - MyBB Stored XSS Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52702
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-52701 - Piwigo Stored Cross-Site Scripting Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52701
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-52677 - HkCms File Upload Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52677
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-52581 - Litestar ASGI Multipart Form Parser Buffer Overflow
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52581
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-49203 - Querydsl JPA orderBy SQL Injection
+Link: https://cvefeed.io/vuln/detail/CVE-2024-49203
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-48986 - Micrium mBedOS HCI Buffer Overflow Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48986
+Published: Wed, 20 Nov 2024 21:15:08 +0000
+
+Title: CVE-2024-48984 - Mbed OS HCI Report Parsing Buffer Overflow Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48984
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48982 - BlueEAR6600 HCI Buffer Overflow
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48982
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48536 - eSoft Planner Information Disclosure Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48536
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48535 - eSoft Planner Stored XSS Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48535
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48534 - Esoft Planner Cross-Site Scripting (XSS) Vuln
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48534
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48533 - eSoft Planner Email Account Enumeration Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48533
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48531 - eSoft Planner XSS
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48531
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-48530 - eSoft Planner DoS Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48530
+Published: Wed, 20 Nov 2024 21:15:07 +0000
+
+Title: CVE-2024-52757 - D-Link DI-8003 Stack Buffer Overflow
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52757
+Published: Wed, 20 Nov 2024 20:15:19 +0000
+
+Title: CVE-2024-52754 - D-Link DI-8003 Buffer Overflow Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52754
+Published: Wed, 20 Nov 2024 20:15:19 +0000
+
+Title: CVE-2024-48985 - Mbed OS HCI Buffer Overflow Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48985
+Published: Wed, 20 Nov 2024 20:15:19 +0000
+
+Title: CVE-2024-48983 - Mbed OS HCI Buffer Overflow
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48983
+Published: Wed, 20 Nov 2024 20:15:19 +0000
+
+Title: CVE-2024-48981 - "MBed OS HCI Packet Header Buffer Overflow Arbitrary Write"
+Link: https://cvefeed.io/vuln/detail/CVE-2024-48981
+Published: Wed, 20 Nov 2024 20:15:19 +0000
+
+Title: CVE-2024-45510 - Zimbra Collaboration ZCS Stored Cross-Site Scripting (XSS) Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-45510
+Published: Wed, 20 Nov 2024 20:15:18 +0000
+
+Title: CVE-2024-45511 - Zimbra Collaboration XSS Reflective File Upload Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-45511
+Published: Wed, 20 Nov 2024 19:15:06 +0000
+
+Title: CVE-2024-33439 - Kasda LinkSmart Router OS Command Injection
+Link: https://cvefeed.io/vuln/detail/CVE-2024-33439
+Published: Wed, 20 Nov 2024 19:15:06 +0000
+
+Title: CVE-2024-52739 - D-Link DI-8400 Remote Command Execution Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-52739
+Published: Wed, 20 Nov 2024 18:15:23 +0000
+
+Title: CVE-2024-29292 - Kasda KW6512 OS Command Injection Vulnerability
+Link: https://cvefeed.io/vuln/detail/CVE-2024-29292
+Published: Wed, 20 Nov 2024 18:15:22 +0000
+
