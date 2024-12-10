@@ -20,4 +20,4 @@ jobs:
       run: |
         curl -X POST http://217.160.221.142:9090/Component/Create \
           -H "Content-Type: application/json" \
-          -d '{"name":"XYZ3","version":"1.0","url":"ex.com","platform":"java","document_ref":"sdsdsdsd","api_ref":"ahjdshjdhjsd","team_id":"d3743afd-9671-4712-8838-8fdd09fe00e6","service_id":"f1e9a4e7-deb1-42ee-b10c-9bbcedb76297"}'
+          -d '{"name":"XYZ3","version":"1.0","url":"ex.com","platform":"java","document_ref":"sdsdsdsd","api_ref":"ahjdshjdhjsd","team_id":"ef9c46ad-567f-45e4-b384-b5cffe5f2ed2","service_id":"10d2478b-c545-42d4-abb0-f5dbe51481b8"}'
